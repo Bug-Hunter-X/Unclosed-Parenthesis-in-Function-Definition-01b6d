@@ -1,0 +1,1 @@
+This repository demonstrates a subtle Python bug caused by an unclosed parenthesis in a function definition. The bug is difficult to spot because it is not flagged by standard syntax checks in many IDEs. The solution shows how to resolve the issue with proper parenthesis closure and demonstrates the importance of careful attention to detail in programming.
